@@ -1,0 +1,5 @@
+name: python 3.7
+dependencies:
+   - altair 4.0.1
+   - numpy  1.18.0
+   - pandas 0.25.3
