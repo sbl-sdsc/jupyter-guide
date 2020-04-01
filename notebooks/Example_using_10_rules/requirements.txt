@@ -1,0 +1,4 @@
+numpy
+matplotlib==3.*
+pandas
+altair==4.0.0
